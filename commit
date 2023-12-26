@@ -1,3 +1,7 @@
 git commit -m "Name of the changes"
 
 Backed up all the files
+
+
+
+We should make commits frequently, so that whenever something doesn't work, we can always jump back to the older commit
