@@ -15,6 +15,7 @@ Github: Makes use of Git behind the scenes and provides us a nice looking UI
 Repository: Project folder
 When we use git, we can colloborate with many people on our repository
 
-
+Unversioned files: (Come in red): These files won't be backed up
+Versioned files: (Come in green): These files will be backed up
 
 Reference: https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS&index=2
