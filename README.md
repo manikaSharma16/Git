@@ -10,6 +10,7 @@ Version refers to state of the project: Like how we used to keep: Project, Proje
 
 Github: Makes use of Git behind the scenes and provides us a nice looking UI
 
+<img width="579" alt="Screenshot 2023-12-26 at 7 31 22 PM" src="https://github.com/manikaSharma16/Git/assets/99970103/8bb2e128-932b-4b79-92e7-7031a1beeb34">
 
 
 
