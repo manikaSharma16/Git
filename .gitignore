@@ -1,1 +1,5 @@
-list of files which we don't want to back up(for example, files having private key)
+a file which contains list of files which we don't want to back up(for example, files having private key)
+
+add such files here
+
+such files will be yellow
