@@ -6,7 +6,7 @@ Or use zip?
 
 Even better: Use version control system: Git
 
-
+Version refers to state of the project: Like how we used to keep: Project, ProjectFinal, ProjectFinal1.0, etc
 
 
 
