@@ -1,3 +1,10 @@
 git add fileName
 
 to version the unversioned file so that we can back it up
+
+
+
+
+git add .
+
+all the unversioned files to versioned
